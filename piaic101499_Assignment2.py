@@ -39,7 +39,6 @@ def function1():
     [ 9 10]
     [11 12]]
     """
-function1()
 
 # Task2
 def function2():
